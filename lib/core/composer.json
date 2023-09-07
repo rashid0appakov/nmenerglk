@@ -1,0 +1,9 @@
+{
+    "name": "maestroprog/word2pdf",
+    "require": {
+        "dompdf/dompdf": "^1.0",
+        "phpoffice/phpword": "^0.18.2",
+        "tecnickcom/tcpdf": "^6.4",
+        "mpdf/mpdf": "^8.0"
+    }
+}

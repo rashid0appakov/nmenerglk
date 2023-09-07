@@ -5,8 +5,12 @@
       <paths name="nm-energlk.ru">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
+          <excludedPaths>
+            <excludedPath path="/bitrix" />
+            <excludedPath path="/upload" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>

@@ -1,0 +1,184 @@
+Host: nm-energlk.ru
+Date: 2023-05-19 14:01:49
+To: rashid0appakov@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0L7QtSDRgdC+0L7QsdGJ0LXQvdC40LUg0L/QviDQstCw0YjQtdC5INC30LDRj9Cy0LrQtSDQvdCwINGB0LDQudGC0LUgIG5tLWVuZXJnbGsucnU=?=
+Message: ---------alt9486467571
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru.
+
+Для просмотра сообщения перейдите на страницу заявки в личном кабинете:
+nm-energlk.ru
+( nm-energlk.ru ).
+
+
+---------alt9486467571
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru. <br>
+</p>
+<p>
+ Для просмотра сообщения перейдите на страницу заявки в <a href="nm-energlk.ru">личном кабинете</a> ( nm-energlk.ru ).
+</p>
+
+
+
+---------alt9486467571--
+
+Headers: 
+Params: 
+
+#0: custom_mail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/tools.php:4496
+#1: bxmail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/mail.php:191
+#2: Bitrix\Main\Mail\Mail::send
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/event.php:270
+#3: Bitrix\Main\Mail\Event::handleEvent
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:153
+#4: Bitrix\Main\Mail\EventManager::executeEvents
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:36
+#5: Bitrix\Main\Mail\EventManager::checkEvents
+	
+----------
+Host: nm-energlk.ru
+Date: 2023-05-19 14:03:45
+To: rashid0appakov@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0L7QtSDRgdC+0L7QsdGJ0LXQvdC40LUg0L/QviDQstCw0YjQtdC5INC30LDRj9Cy0LrQtSDQvdCwINGB0LDQudGC0LUgIG5tLWVuZXJnbGsucnU=?=
+Message: ---------alt5726467579
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru.
+
+Для просмотра сообщения перейдите на страницу заявки в личном кабинете:
+nm-energlk.ru
+( nm-energlk.ru ).
+
+
+---------alt5726467579
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru. <br>
+</p>
+<p>
+ Для просмотра сообщения перейдите на страницу заявки в <a href="nm-energlk.ru">личном кабинете</a> ( nm-energlk.ru ).
+</p>
+
+
+
+---------alt5726467579--
+
+Headers: 
+Params: 
+
+#0: custom_mail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/tools.php:4496
+#1: bxmail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/mail.php:191
+#2: Bitrix\Main\Mail\Mail::send
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/event.php:270
+#3: Bitrix\Main\Mail\Event::handleEvent
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:153
+#4: Bitrix\Main\Mail\EventManager::executeEvents
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:36
+#5: Bitrix\Main\Mail\EventManager::checkEvents
+	
+----------
+Host: nm-energlk.ru
+Date: 2023-05-19 14:04:05
+To: rashid0appakov@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0L7QtSDRgdC+0L7QsdGJ0LXQvdC40LUg0L/QviDQstCw0YjQtdC5INC30LDRj9Cy0LrQtSDQvdCwINGB0LDQudGC0LUgIG5tLWVuZXJnbGsucnU=?=
+Message: ---------alt358646757a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru.
+
+Для просмотра сообщения перейдите на страницу заявки в личном кабинете:
+nm-energlk.ru
+( nm-energlk.ru ).
+
+
+---------alt358646757a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru. <br>
+</p>
+<p>
+ Для просмотра сообщения перейдите на страницу заявки в <a href="nm-energlk.ru">личном кабинете</a> ( nm-energlk.ru ).
+</p>
+
+
+
+---------alt358646757a--
+
+Headers: 
+Params: 
+
+#0: custom_mail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/tools.php:4496
+#1: bxmail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/mail.php:191
+#2: Bitrix\Main\Mail\Mail::send
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/event.php:270
+#3: Bitrix\Main\Mail\Event::handleEvent
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:153
+#4: Bitrix\Main\Mail\EventManager::executeEvents
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:36
+#5: Bitrix\Main\Mail\EventManager::checkEvents
+	
+----------
+Host: nm-energlk.ru
+Date: 2023-05-19 14:08:29
+To: rashid1appakov@gmail.com
+Subject: =?UTF-8?B?0J3QvtCy0L7QtSDRgdC+0L7QsdGJ0LXQvdC40LUg0L/QviDQstCw0YjQtdC5INC30LDRj9Cy0LrQtSDQvdCwINGB0LDQudGC0LUgIG5tLWVuZXJnbGsucnU=?=
+Message: ---------alt159646758a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru.
+
+Для просмотра сообщения перейдите на страницу заявки в личном кабинете:
+nm-energlk.ru
+( nm-energlk.ru ).
+
+
+---------alt159646758a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>
+Поступило новое сообщение по вашей заявке №  на сайте nm-energlk.ru. <br>
+</p>
+<p>
+ Для просмотра сообщения перейдите на страницу заявки в <a href="nm-energlk.ru">личном кабинете</a> ( nm-energlk.ru ).
+</p>
+
+
+
+---------alt159646758a--
+
+Headers: 
+Params: 
+
+#0: custom_mail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/tools.php:4496
+#1: bxmail
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/mail.php:191
+#2: Bitrix\Main\Mail\Mail::send
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/event.php:270
+#3: Bitrix\Main\Mail\Event::handleEvent
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:153
+#4: Bitrix\Main\Mail\EventManager::executeEvents
+	/home/n/nmenergo/nm-energylk.ru/public_html/bitrix/modules/main/lib/mail/eventmanager.php:36
+#5: Bitrix\Main\Mail\EventManager::checkEvents
+	
+----------
