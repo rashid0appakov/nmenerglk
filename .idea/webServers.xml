@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe8279df-1615-461d-abd8-2a890522cf7f" name="nm-energlk.ru" url="https://nm-energlk.ru">
+        <fileTransfer rootFolder="/home/n/nmenergo/nm-energylk.ru/public_html" accessType="SFTP" host="5.23.51.100" port="22" sshConfigId="9a7364ec-833a-4023-8f74-bce6806dafda" sshConfig="nmenergo@5.23.51.100:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
